@@ -1,0 +1,11 @@
+C:\Users\Admin\Documents\GitHub\bitcoin-wallet-generator\rust_vanity_generator\target\release\deps\libbip39-35a01d071cd58532.rmeta: C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bip39-1.2.0\src/lib.rs C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bip39-1.2.0\src\internal_macros.rs C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bip39-1.2.0\src\language\mod.rs C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bip39-1.2.0\src\language\english.rs C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bip39-1.2.0\src\pbkdf2.rs
+
+C:\Users\Admin\Documents\GitHub\bitcoin-wallet-generator\rust_vanity_generator\target\release\deps\libbip39-35a01d071cd58532.rlib: C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bip39-1.2.0\src/lib.rs C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bip39-1.2.0\src\internal_macros.rs C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bip39-1.2.0\src\language\mod.rs C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bip39-1.2.0\src\language\english.rs C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bip39-1.2.0\src\pbkdf2.rs
+
+C:\Users\Admin\Documents\GitHub\bitcoin-wallet-generator\rust_vanity_generator\target\release\deps\bip39-35a01d071cd58532.d: C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bip39-1.2.0\src/lib.rs C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bip39-1.2.0\src\internal_macros.rs C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bip39-1.2.0\src\language\mod.rs C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bip39-1.2.0\src\language\english.rs C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bip39-1.2.0\src\pbkdf2.rs
+
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bip39-1.2.0\src/lib.rs:
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bip39-1.2.0\src\internal_macros.rs:
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bip39-1.2.0\src\language\mod.rs:
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bip39-1.2.0\src\language\english.rs:
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bip39-1.2.0\src\pbkdf2.rs:

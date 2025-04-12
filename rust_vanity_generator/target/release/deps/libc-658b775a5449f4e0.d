@@ -1,0 +1,11 @@
+C:\Users\Admin\Documents\GitHub\bitcoin-wallet-generator\rust_vanity_generator\target\release\deps\liblibc-658b775a5449f4e0.rmeta: C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.171\src/lib.rs C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.171\src\macros.rs C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.171\src\primitives.rs C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.171\src\windows\mod.rs C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.171\src\windows\msvc\mod.rs
+
+C:\Users\Admin\Documents\GitHub\bitcoin-wallet-generator\rust_vanity_generator\target\release\deps\liblibc-658b775a5449f4e0.rlib: C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.171\src/lib.rs C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.171\src\macros.rs C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.171\src\primitives.rs C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.171\src\windows\mod.rs C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.171\src\windows\msvc\mod.rs
+
+C:\Users\Admin\Documents\GitHub\bitcoin-wallet-generator\rust_vanity_generator\target\release\deps\libc-658b775a5449f4e0.d: C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.171\src/lib.rs C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.171\src\macros.rs C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.171\src\primitives.rs C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.171\src\windows\mod.rs C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.171\src\windows\msvc\mod.rs
+
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.171\src/lib.rs:
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.171\src\macros.rs:
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.171\src\primitives.rs:
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.171\src\windows\mod.rs:
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.171\src\windows\msvc\mod.rs:

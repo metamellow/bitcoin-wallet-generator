@@ -1,0 +1,11 @@
+C:\Users\Admin\Documents\GitHub\bitcoin-wallet-generator\rust_vanity_generator\target\release\deps\librand_core-f36b9368fd60144e.rmeta: C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.4.2\src\lib.rs C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.4.2\src\error.rs C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.4.2\src\block.rs C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.4.2\src\impls.rs C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.4.2\src\le.rs
+
+C:\Users\Admin\Documents\GitHub\bitcoin-wallet-generator\rust_vanity_generator\target\release\deps\librand_core-f36b9368fd60144e.rlib: C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.4.2\src\lib.rs C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.4.2\src\error.rs C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.4.2\src\block.rs C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.4.2\src\impls.rs C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.4.2\src\le.rs
+
+C:\Users\Admin\Documents\GitHub\bitcoin-wallet-generator\rust_vanity_generator\target\release\deps\rand_core-f36b9368fd60144e.d: C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.4.2\src\lib.rs C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.4.2\src\error.rs C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.4.2\src\block.rs C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.4.2\src\impls.rs C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.4.2\src\le.rs
+
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.4.2\src\lib.rs:
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.4.2\src\error.rs:
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.4.2\src\block.rs:
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.4.2\src\impls.rs:
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.4.2\src\le.rs:

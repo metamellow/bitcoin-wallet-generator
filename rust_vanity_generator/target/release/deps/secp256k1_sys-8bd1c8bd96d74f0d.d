@@ -1,0 +1,10 @@
+C:\Users\Admin\Documents\GitHub\bitcoin-wallet-generator\rust_vanity_generator\target\release\deps\libsecp256k1_sys-8bd1c8bd96d74f0d.rmeta: C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.9.2\src\lib.rs C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.9.2\src\macros.rs C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.9.2\src\types.rs C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.9.2\src\recovery.rs
+
+C:\Users\Admin\Documents\GitHub\bitcoin-wallet-generator\rust_vanity_generator\target\release\deps\libsecp256k1_sys-8bd1c8bd96d74f0d.rlib: C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.9.2\src\lib.rs C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.9.2\src\macros.rs C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.9.2\src\types.rs C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.9.2\src\recovery.rs
+
+C:\Users\Admin\Documents\GitHub\bitcoin-wallet-generator\rust_vanity_generator\target\release\deps\secp256k1_sys-8bd1c8bd96d74f0d.d: C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.9.2\src\lib.rs C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.9.2\src\macros.rs C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.9.2\src\types.rs C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.9.2\src\recovery.rs
+
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.9.2\src\lib.rs:
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.9.2\src\macros.rs:
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.9.2\src\types.rs:
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.9.2\src\recovery.rs:

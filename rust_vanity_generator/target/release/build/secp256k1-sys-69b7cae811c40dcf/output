@@ -1,0 +1,162 @@
+OUT_DIR = Some(C:\Users\Admin\Documents\GitHub\bitcoin-wallet-generator\rust_vanity_generator\target\release\build\secp256k1-sys-69b7cae811c40dcf\out)
+OPT_LEVEL = Some(3)
+TARGET = Some(x86_64-pc-windows-msvc)
+cargo:rerun-if-env-changed=VCINSTALLDIR
+VCINSTALLDIR = None
+cargo:rerun-if-env-changed=VSTEL_MSBuildProjectFullPath
+VSTEL_MSBuildProjectFullPath = None
+cargo:rerun-if-env-changed=VSCMD_ARG_VCVARS_SPECTRE
+VSCMD_ARG_VCVARS_SPECTRE = None
+cargo:rerun-if-env-changed=WindowsSdkDir
+WindowsSdkDir = None
+cargo:rerun-if-env-changed=WindowsSDKVersion
+WindowsSDKVersion = None
+cargo:rerun-if-env-changed=LIB
+LIB = None
+PATH = Some(C:\Users\Admin\Documents\GitHub\bitcoin-wallet-generator\rust_vanity_generator\target\release\deps;C:\Users\Admin\Documents\GitHub\bitcoin-wallet-generator\rust_vanity_generator\target\release;C:\Users\Admin\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib\rustlib\x86_64-pc-windows-msvc\lib;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.4\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.4\libnvvp;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.3\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.3\libnvvp;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.1\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.1\libnvvp;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\ProgramData\chocolatey\bin;C:\Program Files\Calibre2\;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Program Files\NVIDIA Corporation\Nsight Compute 2024.1.0\;C:\Program Files\nodejs\;C:\Program Files\dotnet\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\PuTTY\;C:\Program Files\Git\cmd;C:\Program Files\Docker\Docker\resources\bin;C:\Users\Admin\AppData\Local\Programs\Python\Python313\Scripts\;C:\Users\Admin\AppData\Local\Programs\Python\Python313\;C:\Users\Admin\AppData\Local\Programs\Python\Python311\Scripts\;C:\Users\Admin\AppData\Local\Programs\Python\Python311\;C:\Users\Admin\AppData\Local\pnpm;C:\Users\Admin\.local\share\solana\install\active_release\bin;C:\Users\Admin\.cargo\bin;C:\Users\Admin\AppData\Local\Microsoft\WindowsApps;C:\Users\Admin\AppData\Local\Programs\EmEditor;C:\Users\Admin\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Admin\AppData\Local\GitHubDesktop\bin;c:\users\admin\.local\bin;C:\tools\msys64;C:\gtk-build\gtk\x64\release\bin;C:\GTK\bin;C:\Users\Admin\AppData\Roaming\npm;C:\Users\Admin\AppData\Local\Programs\cursor\resources\app\bin)
+cargo:rerun-if-env-changed=INCLUDE
+INCLUDE = None
+HOST = Some(x86_64-pc-windows-msvc)
+cargo:rerun-if-env-changed=CC_x86_64-pc-windows-msvc
+CC_x86_64-pc-windows-msvc = None
+cargo:rerun-if-env-changed=CC_x86_64_pc_windows_msvc
+CC_x86_64_pc_windows_msvc = None
+cargo:rerun-if-env-changed=HOST_CC
+HOST_CC = None
+cargo:rerun-if-env-changed=CC
+CC = None
+cargo:rerun-if-env-changed=CRATE_CC_NO_DEFAULTS
+CRATE_CC_NO_DEFAULTS = None
+CARGO_CFG_TARGET_FEATURE = Some(cmpxchg16b,fxsr,sse,sse2,sse3)
+DEBUG = Some(false)
+cargo:rerun-if-env-changed=CFLAGS
+CFLAGS = None
+cargo:rerun-if-env-changed=HOST_CFLAGS
+HOST_CFLAGS = None
+cargo:rerun-if-env-changed=CFLAGS_x86_64_pc_windows_msvc
+CFLAGS_x86_64_pc_windows_msvc = None
+cargo:rerun-if-env-changed=CFLAGS_x86_64-pc-windows-msvc
+CFLAGS_x86_64-pc-windows-msvc = None
+CARGO_ENCODED_RUSTFLAGS = Some()
+OUT_DIR = Some(C:\Users\Admin\Documents\GitHub\bitcoin-wallet-generator\rust_vanity_generator\target\release\build\secp256k1-sys-69b7cae811c40dcf\out)
+cargo:rerun-if-env-changed=CC_ENABLE_DEBUG_OUTPUT
+cargo:rerun-if-env-changed=CRATE_CC_NO_DEFAULTS
+CRATE_CC_NO_DEFAULTS = None
+TARGET = Some(x86_64-pc-windows-msvc)
+CARGO_CFG_TARGET_FEATURE = Some(cmpxchg16b,fxsr,sse,sse2,sse3)
+HOST = Some(x86_64-pc-windows-msvc)
+cargo:rerun-if-env-changed=CFLAGS
+CFLAGS = None
+cargo:rerun-if-env-changed=HOST_CFLAGS
+HOST_CFLAGS = None
+cargo:rerun-if-env-changed=CFLAGS_x86_64_pc_windows_msvc
+CFLAGS_x86_64_pc_windows_msvc = None
+cargo:rerun-if-env-changed=CFLAGS_x86_64-pc-windows-msvc
+CFLAGS_x86_64-pc-windows-msvc = None
+cargo:rerun-if-env-changed=CC_ENABLE_DEBUG_OUTPUT
+lax_der_parsing.c
+precomputed_ecmult_gen.c
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.8.1\depend\secp256k1\src\util.h(261): warning C4146: unary minus operator applied to unsigned type, result still unsigned
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.8.1\depend\secp256k1\src\util.h(274): warning C4146: unary minus operator applied to unsigned type, result still unsigned
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.8.1\depend\secp256k1\src\util.h(323): warning C4244: '=': conversion from 'uint32_t' to 'unsigned char', possible loss of data
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.8.1\depend\secp256k1\src\util.h(324): warning C4244: '=': conversion from 'uint32_t' to 'unsigned char', possible loss of data
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.8.1\depend\secp256k1\src\util.h(325): warning C4244: '=': conversion from 'uint32_t' to 'unsigned char', possible loss of data
+precomputed_ecmult.c
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.8.1\depend\secp256k1\src\util.h(261): warning C4146: unary minus operator applied to unsigned type, result still unsigned
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.8.1\depend\secp256k1\src\util.h(274): warning C4146: unary minus operator applied to unsigned type, result still unsigned
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.8.1\depend\secp256k1\src\util.h(323): warning C4244: '=': conversion from 'uint32_t' to 'unsigned char', possible loss of data
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.8.1\depend\secp256k1\src\util.h(324): warning C4244: '=': conversion from 'uint32_t' to 'unsigned char', possible loss of data
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.8.1\depend\secp256k1\src\util.h(325): warning C4244: '=': conversion from 'uint32_t' to 'unsigned char', possible loss of data
+secp256k1.c
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.8.1\depend\secp256k1\src\util.h(261): warning C4146: unary minus operator applied to unsigned type, result still unsigned
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.8.1\depend\secp256k1\src\util.h(274): warning C4146: unary minus operator applied to unsigned type, result still unsigned
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.8.1\depend\secp256k1\src\util.h(323): warning C4244: '=': conversion from 'uint32_t' to 'unsigned char', possible loss of data
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.8.1\depend\secp256k1\src\util.h(324): warning C4244: '=': conversion from 'uint32_t' to 'unsigned char', possible loss of data
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.8.1\depend\secp256k1\src\util.h(325): warning C4244: '=': conversion from 'uint32_t' to 'unsigned char', possible loss of data
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.8.1\depend\secp256k1\src\assumptions.h(43): warning C4310: cast truncates constant value
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.8.1\depend\secp256k1\src\assumptions.h(44): warning C4310: cast truncates constant value
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.8.1\depend\secp256k1\src\assumptions.h(45): warning C4310: cast truncates constant value
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.8.1\depend\secp256k1\src\assumptions.h(49): warning C4310: cast truncates constant value
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.8.1\depend\secp256k1\src\assumptions.h(50): warning C4310: cast truncates constant value
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.8.1\depend\secp256k1\src\assumptions.h(51): warning C4310: cast truncates constant value
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.8.1\depend\secp256k1\src\assumptions.h(55): warning C4310: cast truncates constant value
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.8.1\depend\secp256k1\src\assumptions.h(56): warning C4310: cast truncates constant value
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.8.1\depend\secp256k1\src\assumptions.h(57): warning C4310: cast truncates constant value
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.8.1\depend\secp256k1\src\assumptions.h(73): warning C4310: cast truncates constant value
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.8.1\depend\secp256k1\src\assumptions.h(74): warning C4310: cast truncates constant value
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.8.1\depend\secp256k1\src\modinv64_impl.h(185): warning C4146: unary minus operator applied to unsigned type, result still unsigned
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.8.1\depend\secp256k1\src\modinv64_impl.h(264): warning C4146: unary minus operator applied to unsigned type, result still unsigned
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.8.1\depend\secp256k1\src\modinv64_impl.h(265): warning C4146: unary minus operator applied to unsigned type, result still unsigned
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.8.1\depend\secp256k1\src\modinv64_impl.h(266): warning C4146: unary minus operator applied to unsigned type, result still unsigned
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.8.1\depend\secp256k1\src\modinv64_impl.h(276): warning C4244: '=': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.8.1\depend\secp256k1\src\modinv64_impl.h(286): warning C4244: '=': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.8.1\depend\secp256k1\src\modinv64_impl.h(287): warning C4146: unary minus operator applied to unsigned type, result still unsigned
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.8.1\depend\secp256k1\src\modinv64_impl.h(287): warning C4244: '=': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.8.1\depend\secp256k1\src\field_5x52_impl.h(498): warning C4146: unary minus operator applied to unsigned type, result still unsigned
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.8.1\depend\secp256k1\src\scalar_4x64_impl.h(104): warning C4244: '=': conversion from 'uint64_t' to 'int', possible loss of data
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.8.1\depend\secp256k1\src\scalar_4x64_impl.h(144): warning C4244: '=': conversion from 'const uint64_t' to 'unsigned char', possible loss of data
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.8.1\depend\secp256k1\src\scalar_4x64_impl.h(144): warning C4244: '=': conversion from 'const uint64_t' to 'unsigned char', possible loss of data
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.8.1\depend\secp256k1\src\scalar_4x64_impl.h(144): warning C4244: '=': conversion from 'const uint64_t' to 'unsigned char', possible loss of data
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.8.1\depend\secp256k1\src\scalar_4x64_impl.h(144): warning C4244: '=': conversion from 'const uint64_t' to 'unsigned char', possible loss of data
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.8.1\depend\secp256k1\src\scalar_4x64_impl.h(144): warning C4244: '=': conversion from 'const uint64_t' to 'unsigned char', possible loss of data
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.8.1\depend\secp256k1\src\scalar_4x64_impl.h(144): warning C4244: '=': conversion from 'const uint64_t' to 'unsigned char', possible loss of data
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.8.1\depend\secp256k1\src\scalar_4x64_impl.h(144): warning C4244: '=': conversion from 'const uint64_t' to 'unsigned char', possible loss of data
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.8.1\depend\secp256k1\src\scalar_4x64_impl.h(145): warning C4244: '=': conversion from 'const uint64_t' to 'unsigned char', possible loss of data
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.8.1\depend\secp256k1\src\scalar_4x64_impl.h(145): warning C4244: '=': conversion from 'const uint64_t' to 'unsigned char', possible loss of data
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.8.1\depend\secp256k1\src\scalar_4x64_impl.h(145): warning C4244: '=': conversion from 'const uint64_t' to 'unsigned char', possible loss of data
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.8.1\depend\secp256k1\src\scalar_4x64_impl.h(145): warning C4244: '=': conversion from 'const uint64_t' to 'unsigned char', possible loss of data
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.8.1\depend\secp256k1\src\scalar_4x64_impl.h(145): warning C4244: '=': conversion from 'const uint64_t' to 'unsigned char', possible loss of data
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.8.1\depend\secp256k1\src\scalar_4x64_impl.h(145): warning C4244: '=': conversion from 'const uint64_t' to 'unsigned char', possible loss of data
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.8.1\depend\secp256k1\src\scalar_4x64_impl.h(145): warning C4244: '=': conversion from 'const uint64_t' to 'unsigned char', possible loss of data
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.8.1\depend\secp256k1\src\scalar_4x64_impl.h(146): warning C4244: '=': conversion from 'const uint64_t' to 'unsigned char', possible loss of data
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.8.1\depend\secp256k1\src\scalar_4x64_impl.h(146): warning C4244: '=': conversion from 'const uint64_t' to 'unsigned char', possible loss of data
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.8.1\depend\secp256k1\src\scalar_4x64_impl.h(146): warning C4244: '=': conversion from 'const uint64_t' to 'unsigned char', possible loss of data
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.8.1\depend\secp256k1\src\scalar_4x64_impl.h(146): warning C4244: '=': conversion from 'const uint64_t' to 'unsigned char', possible loss of data
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.8.1\depend\secp256k1\src\scalar_4x64_impl.h(146): warning C4244: '=': conversion from 'const uint64_t' to 'unsigned char', possible loss of data
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.8.1\depend\secp256k1\src\scalar_4x64_impl.h(146): warning C4244: '=': conversion from 'const uint64_t' to 'unsigned char', possible loss of data
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.8.1\depend\secp256k1\src\scalar_4x64_impl.h(146): warning C4244: '=': conversion from 'const uint64_t' to 'unsigned char', possible loss of data
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.8.1\depend\secp256k1\src\scalar_4x64_impl.h(147): warning C4244: '=': conversion from 'const uint64_t' to 'unsigned char', possible loss of data
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.8.1\depend\secp256k1\src\scalar_4x64_impl.h(147): warning C4244: '=': conversion from 'const uint64_t' to 'unsigned char', possible loss of data
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.8.1\depend\secp256k1\src\scalar_4x64_impl.h(147): warning C4244: '=': conversion from 'const uint64_t' to 'unsigned char', possible loss of data
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.8.1\depend\secp256k1\src\scalar_4x64_impl.h(147): warning C4244: '=': conversion from 'const uint64_t' to 'unsigned char', possible loss of data
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.8.1\depend\secp256k1\src\scalar_4x64_impl.h(147): warning C4244: '=': conversion from 'const uint64_t' to 'unsigned char', possible loss of data
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.8.1\depend\secp256k1\src\scalar_4x64_impl.h(147): warning C4244: '=': conversion from 'const uint64_t' to 'unsigned char', possible loss of data
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.8.1\depend\secp256k1\src\scalar_4x64_impl.h(147): warning C4244: '=': conversion from 'const uint64_t' to 'unsigned char', possible loss of data
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.8.1\depend\secp256k1\src\scalar_4x64_impl.h(544): warning C4244: '=': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.8.1\depend\secp256k1\src\scalar_4x64_impl.h(564): warning C4244: '=': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.8.1\depend\secp256k1\src\scalar_4x64_impl.h(584): warning C4244: 'function': conversion from 'uint64_t' to 'unsigned int', possible loss of data
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.8.1\depend\secp256k1\src\ecmult_impl.h(516): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.8.1\depend\secp256k1\src\ecmult_impl.h(683): warning C4334: '<<': result of 32-bit shift implicitly converted to 64 bits (was 64-bit shift intended?)
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.8.1\depend\secp256k1\src\hash_impl.h(151): warning C4244: 'function': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.8.1\depend\secp256k1\src\hash_impl.h(152): warning C4244: 'function': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.8.1\depend\secp256k1\src\hash_impl.h(261): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.8.1\depend\secp256k1\src\ecdsa_impl.h(197): warning C4267: '=': conversion from 'size_t' to 'unsigned char', possible loss of data
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.8.1\depend\secp256k1\src\ecdsa_impl.h(199): warning C4267: '=': conversion from 'size_t' to 'unsigned char', possible loss of data
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.8.1\depend\secp256k1\src\ecdsa_impl.h(202): warning C4267: '=': conversion from 'size_t' to 'unsigned char', possible loss of data
+depend/secp256k1/src/secp256k1.c(177): warning C4127: conditional expression is constant
+depend/secp256k1/src/secp256k1.c(196): warning C4127: conditional expression is constant
+depend/secp256k1/src/secp256k1.c(278): warning C4127: conditional expression is constant
+depend/secp256k1/src/secp256k1.c(291): warning C4127: conditional expression is constant
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.8.1\depend\secp256k1\src\modules/recovery/main_impl.h(14): warning C4127: conditional expression is constant
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.8.1\depend\secp256k1\src\modules/recovery/main_impl.h(28): warning C4127: conditional expression is constant
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.8.1\depend\secp256k1\src\modules/recovery/main_impl.h(35): warning C4244: '=': conversion from 'int' to 'unsigned char', possible loss of data
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\secp256k1-sys-0.8.1\depend\secp256k1\src\modules/schnorrsig/main_impl.h(48): warning C4295: 'bip340_algo': array is too small to include a terminating null character
+cargo:rerun-if-env-changed=AR_x86_64-pc-windows-msvc
+AR_x86_64-pc-windows-msvc = None
+cargo:rerun-if-env-changed=AR_x86_64_pc_windows_msvc
+AR_x86_64_pc_windows_msvc = None
+cargo:rerun-if-env-changed=HOST_AR
+HOST_AR = None
+cargo:rerun-if-env-changed=AR
+AR = None
+cargo:rerun-if-env-changed=ARFLAGS
+ARFLAGS = None
+cargo:rerun-if-env-changed=HOST_ARFLAGS
+HOST_ARFLAGS = None
+cargo:rerun-if-env-changed=ARFLAGS_x86_64_pc_windows_msvc
+ARFLAGS_x86_64_pc_windows_msvc = None
+cargo:rerun-if-env-changed=ARFLAGS_x86_64-pc-windows-msvc
+ARFLAGS_x86_64-pc-windows-msvc = None
+cargo:rustc-link-search=native=C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\atlmfc\lib\x64
+cargo:rustc-link-lib=static=secp256k1
+cargo:rustc-link-search=native=C:\Users\Admin\Documents\GitHub\bitcoin-wallet-generator\rust_vanity_generator\target\release\build\secp256k1-sys-69b7cae811c40dcf\out

@@ -1,0 +1,10 @@
+C:\Users\Admin\Documents\GitHub\bitcoin-wallet-generator\rust_vanity_generator\target\release\deps\libanstyle_wincon-3d49e0e5e09593ee.rmeta: C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.7\src/lib.rs C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.7\src\ansi.rs C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.7\src\stream.rs C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.7\src\windows.rs
+
+C:\Users\Admin\Documents\GitHub\bitcoin-wallet-generator\rust_vanity_generator\target\release\deps\libanstyle_wincon-3d49e0e5e09593ee.rlib: C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.7\src/lib.rs C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.7\src\ansi.rs C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.7\src\stream.rs C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.7\src\windows.rs
+
+C:\Users\Admin\Documents\GitHub\bitcoin-wallet-generator\rust_vanity_generator\target\release\deps\anstyle_wincon-3d49e0e5e09593ee.d: C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.7\src/lib.rs C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.7\src\ansi.rs C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.7\src\stream.rs C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.7\src\windows.rs
+
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.7\src/lib.rs:
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.7\src\ansi.rs:
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.7\src\stream.rs:
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.7\src\windows.rs:

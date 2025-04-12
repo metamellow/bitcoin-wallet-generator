@@ -1,0 +1,11 @@
+C:\Users\Admin\Documents\GitHub\bitcoin-wallet-generator\rust_vanity_generator\target\release\deps\libctrlc-6e66131edfa87aea.rmeta: C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ctrlc-3.4.6\src/lib.rs C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ctrlc-3.4.6\src\error.rs C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ctrlc-3.4.6\src\platform\mod.rs C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ctrlc-3.4.6\src\platform\windows\mod.rs C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ctrlc-3.4.6\src\signal.rs
+
+C:\Users\Admin\Documents\GitHub\bitcoin-wallet-generator\rust_vanity_generator\target\release\deps\libctrlc-6e66131edfa87aea.rlib: C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ctrlc-3.4.6\src/lib.rs C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ctrlc-3.4.6\src\error.rs C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ctrlc-3.4.6\src\platform\mod.rs C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ctrlc-3.4.6\src\platform\windows\mod.rs C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ctrlc-3.4.6\src\signal.rs
+
+C:\Users\Admin\Documents\GitHub\bitcoin-wallet-generator\rust_vanity_generator\target\release\deps\ctrlc-6e66131edfa87aea.d: C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ctrlc-3.4.6\src/lib.rs C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ctrlc-3.4.6\src\error.rs C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ctrlc-3.4.6\src\platform\mod.rs C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ctrlc-3.4.6\src\platform\windows\mod.rs C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ctrlc-3.4.6\src\signal.rs
+
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ctrlc-3.4.6\src/lib.rs:
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ctrlc-3.4.6\src\error.rs:
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ctrlc-3.4.6\src\platform\mod.rs:
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ctrlc-3.4.6\src\platform\windows\mod.rs:
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ctrlc-3.4.6\src\signal.rs:
