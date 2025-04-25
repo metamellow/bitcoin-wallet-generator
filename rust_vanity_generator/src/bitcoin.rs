@@ -10,11 +10,29 @@ use std::thread;
 use std::time::Instant;
 use rand::Rng;
 
+fn get_random_cores(num_cores: usize) -> Vec<usize> {
+    let total_cores = num_cpus::get();
+    let mut available_cores: Vec<usize> = (0..total_cores).collect();
+    let mut selected_cores = Vec::with_capacity(num_cores);
+    
+    let mut rng = rand::thread_rng();
+    
+    for _ in 0..num_cores {
+        if available_cores.is_empty() {
+            break;
+        }
+        let index = rng.gen_range(0..available_cores.len());
+        selected_cores.push(available_cores.remove(index));
+    }
+    
+    selected_cores
+}
+
 pub fn generate_btc_address(target_words_arg: Option<String>, threads_arg: Option<usize>) -> Result<()> {
     // Default target words
     let default_words = vec![
         "ABCD", "1234", "FADE", "BEAD", "DEAD", "BEEF", "CAFE", "FACE", "BABE",
-        "F00D", "C0DE", "FEED", "B00B", "D00D", "BEEF", "CAFE", "DEAD", "FACE", "FEED", "FADE", "BEAD", "BABE"
+        "F00D", "C0DE", "FEED", "B00B", "D00D", "BAE", "BAD", "ACE"
     ];
 
     // Get target words from user or use defaults
@@ -59,6 +77,10 @@ pub fn generate_btc_address(target_words_arg: Option<String>, threads_arg: Optio
         }
     };
 
+    // Get random cores to use
+    let selected_cores = get_random_cores(num_threads);
+    println!("\nUsing CPU cores: {:?}", selected_cores);
+
     println!("\nStarting Bitcoin address generation...");
     println!("Searching for addresses that start AND end with: {}", target_words.join(", "));
     println!("Using {} CPU cores", num_threads);
@@ -68,10 +90,30 @@ pub fn generate_btc_address(target_words_arg: Option<String>, threads_arg: Optio
     let start_time = Instant::now();
     let mut handles = vec![];
 
-    for _ in 0..num_threads {
+    for core in selected_cores {
         let counter = Arc::clone(&counter);
         let target_words = target_words.clone();
         let handle = thread::spawn(move || {
+            // Set thread affinity to the selected core
+            #[cfg(target_os = "windows")]
+            {
+                use windows::Win32::System::Threading::{GetCurrentThread, SetThreadAffinityMask};
+                unsafe {
+                    let thread = GetCurrentThread();
+                    SetThreadAffinityMask(thread, 1 << core);
+                }
+            }
+            #[cfg(target_os = "linux")]
+            {
+                use libc::{cpu_set_t, sched_setaffinity, CPU_SET, CPU_ZERO};
+                unsafe {
+                    let mut set = std::mem::zeroed::<cpu_set_t>();
+                    CPU_ZERO(&mut set);
+                    CPU_SET(core, &mut set);
+                    sched_setaffinity(0, std::mem::size_of::<cpu_set_t>(), &set);
+                }
+            }
+
             let secp = Secp256k1::new();
             let mut rng = rand::thread_rng();
             let mut last_print = Instant::now();
